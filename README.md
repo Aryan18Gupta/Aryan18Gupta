@@ -1,25 +1,25 @@
 [![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Ayush Raj</h1>
-<h3 align="center">Data Science Enthusiast | Aspiring ML Developer | Prwatech (Summer Intern) | Ex-Dorklab | VIT Vellore</h3>
+<h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
+<h3 align="center">Python Developer | Passionate Software Engineer | Data Science Enthusiast | Innovator at Heart </h3>
 <img align="right" alt="coding" width="400" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRiOTN4dG10dTF4NDJ6eDRvbDV3bWdnYWZ4YzZzdjhjYjV2c2t2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arayush34&label=Profile%20views&color=0e75b6&style=flat" alt="arayush34" /> </p>
 
-- 🔭 I’m currently working on [HealthPremiumPro](https://github.com/arayush34/HealthPremiumPro)
+- 🔭 I’m currently working on [Live Chat Board](https://github.com/arayush34/HealthPremiumPro)
 
 - 🌱 I’m currently learning *Deep Learning, Neural Networks, NLP, Reinforcement Learning, Transfer Learning, CNNs, RNNs and GNNs.*
 
 - 👯 I’m looking to collaborate on *Any AI/ML related Projects*
 
-- 👨‍💻 All of my projects are available at -> [MyProfile](https://github.com/arayush34)
+- 👨‍💻 All of my projects are available at -> [MyProfile](https://github.com/Aryan18Gupta)
 
 - 💬 About Me - <br/>
-  **Highly driven third-year undergraduate at Vellore Institute of Technology, majoring
-  in Computer Science Engineering. Proficient in Java, C++, and Python. Passionate about Data Science,
-  Machine Learning, and Cyber Security. Self-motivated learner and collaboration enthusiast.
-  Committed to excellence and eager to make a lasting impact in Computer Science.** 
+  **Dynamic and skilled Software Engineer dedicated about leveraging technology to drive innovation and
+  solve complex problems. Proficient in a wide range of programming languages and tools, with hands
+  on experience in software development, data analytics, and machine learning. Seeking opportunities to
+  contribute to impactful projects in a collaborative team environment.** 
 
-- 📫 How to reach me *arayush65@gmail.com*
+- 📫 How to reach me *gupta23aryan@gmail.com*
 
 - 📄 Know about my experiences At -> [AyushRaj.io](https://drive.google.com/file/d/1LnCBjOAw0uPW9drATqeMcUhWfiOuS3Vw/view)
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush-raj-20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-raj-20" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryangupta23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-gupta-23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arayush65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arayush65" height="30" width="40" /></a>
 </p>
 

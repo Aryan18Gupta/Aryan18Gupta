@@ -14,14 +14,15 @@
 - 👨‍💻 All of my projects are available at -> [MyProfile](https://github.com/Aryan18Gupta)
 
 - 💬 About Me - <br/>
-  **Dynamic and skilled Software Engineer dedicated about leveraging technology to drive innovation and
-  solve complex problems. Proficient in a wide range of programming languages and tools, with hands
-  on experience in software development, data analytics, and machine learning. Seeking opportunities to
-  contribute to impactful projects in a collaborative team environment.** 
+  **Dynamic and skilled Software Engineer dedicated about leveraging technology to drive
+  innovation and solve complex problems. Proficient in a wide range of programming languages
+  and tools, with hands on experience in software development, data analytics, and machine
+  learning. Seeking opportunities to contribute to impactful projects in a collaborative
+  team environment.** 
 
 - 📫 How to reach me *gupta23aryan@gmail.com*
 
-- 📄 Know about my experiences At -> [AyushRaj.io](https://drive.google.com/file/d/1LnCBjOAw0uPW9drATqeMcUhWfiOuS3Vw/view)
+- 📄 Know about my experiences At -> [AryanGupta.io](https://drive.google.com/file/d/18taa-WtRL49wKKFZSVioF05fBMooJ8hx/view?usp=sharing)
 
 - ⚡ Fun fact *"Data is the fuel that drives innovation and powers the digital revolution."*
 
